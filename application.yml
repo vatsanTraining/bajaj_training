@@ -9,4 +9,7 @@ info:
     groupId:@project.groupId@
   java:
     version:@java.version@    
-  
+management:
+  info:
+    env:
+      enabled: true

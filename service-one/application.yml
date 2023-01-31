@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: srivatsan
-    url: jdbc:mysql://localhost:3306/test
+    url: jdbc:mysql://localhost:3306/demo
     username: root
   jpa:
     show-sql: true
